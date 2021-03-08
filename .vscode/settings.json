@@ -1,5 +1,5 @@
 {
     "jupyter.jupyterServerType": "local",
-    "python.pythonPath": "env/bin/python3.9",
+    "python.pythonPath": "env/bin/python",
     "git.ignoreLimitWarning": true
 }
